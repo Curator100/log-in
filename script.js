@@ -55,7 +55,7 @@ function submitForm() {
     }
     // Set 4 validation
     if (roll === rollsPasswords.set4.roll && password === rollsPasswords.set4.password) {
-        window.location.href = "https://m.com";
+        window.location.href = "https://fishy-suede-a92.notion.site/Team-Business-109a62814a478071a1caf297d61f2169?pvs=4";
         return;
     }
 
